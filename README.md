@@ -1,7 +1,7 @@
 ### Olá! Eu sou Grazy Pereira 👋;
- ##👀 Desenvolvedora Front-End ;
+## 👀 Desenvolvedora Front-End ;
  
- ##💞️ Apaixonada por Educação e Tecnologia;
+## 💞️ Apaixonada por Educação e Tecnologia;
 
 ## Habilidades que aprendi na vai na web.
 
